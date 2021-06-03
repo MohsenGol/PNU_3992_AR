@@ -34,7 +34,7 @@
     8. [مشارکت در گروهای درسی](#Groups)
     ----------------
 2. **ارائه شفاهی یک روز از پروژه 10/10**  
-    - [**ارائه شفاهی day1_Timeline **](https://mohsengoli.wistia.com/projects/q2yvikhby0)
+    - [**ارائه شفاهی day1_Timeline **](https://mohsengoli.wistia.com/medias/vgup07nswu)
    
 
 [<kbd>↩</kbd>](#TOC)
