@@ -33,7 +33,7 @@
     7. [گذراندن دوره HTML از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1014-20241735.jpg)
     ----------------
 2. **ارائه شفاهی یک روز از پروژه 10/10**  
-    - [**ارائه شفاهی روز اول ـ تایم لاین / day1_Timeline **](https://mohsengoli.wistia.com/medias/vgup07nswu)
+    - [**ارائه شفاهی روز اول ـ تایم لاین (day1_Timeline) **](https://mohsengoli.wistia.com/medias/vgup07nswu)
    
 
 [<kbd>↩</kbd>](#TOC)
