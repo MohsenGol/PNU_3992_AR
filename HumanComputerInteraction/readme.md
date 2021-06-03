@@ -1,9 +1,9 @@
 <div dir="rtl">
 
 <a name="TOC"></a>
-# [PNU_3991](https://github.com/AliRazavi-edu/PNU_3991#TOC)
+# [PNU_3992](https://github.com/AliRazavi-edu/PNU_3991#TOC)
 
-## Theory-of-Languages-and-Machines
+## Human Computer Interaction
 ## محسن گلی
 - [PNU_3991_AR](https://github.com/MohsenGol/PNU_3991_AR)
 - [Resume](https://mohsengol.github.io/CV/) 
