@@ -20,11 +20,11 @@
     <th>شنبه</th>
   </tr>
    <tr>
+    <th ></th>
+    <th ></th>
+    <th></th>
+    <th></th>
     <th ><a  href="">تعامل انسان و کامپیوتر</a></th>
-    <th ></th>
-    <th></th>
-    <th></th>
-    <th ></th>
     <th>یک شنبه</th>
   </tr>
    <tr>
