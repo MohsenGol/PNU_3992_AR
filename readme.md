@@ -24,7 +24,7 @@
     <th ></th>
     <th></th>
     <th></th>
-    <th ><a  href="">1322108-30تعامل انسان و کامپیوتر</a></th>
+    <th ><a  href="https://github.com/AliRazavi-edu/C_HumanComputerInteraction">1322108-30تعامل انسان و کامپیوتر</a></th>
     <th>یک شنبه</th>
   </tr>
    <tr>
