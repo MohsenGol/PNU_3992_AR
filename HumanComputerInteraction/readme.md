@@ -31,7 +31,6 @@
     5. [ایجاد ریپازیتوری PNU_3992_AR](https://github.com/MohsenGol/PNU_3992_AR)
     6. [گذراندن دوره js از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1024-20241735.jpg)
     7. [گذراندن دوره HTML از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1014-20241735.jpg)
-    8. [مشارکت در گروهای درسی](#Groups)
     ----------------
 2. **ارائه شفاهی یک روز از پروژه 10/10**  
     - [**ارائه شفاهی day1_Timeline **](https://mohsengoli.wistia.com/medias/vgup07nswu)
