@@ -14,7 +14,7 @@
 ## فهرست
 - [سیاهه ارزشیابی درس](#Evaluation)
 - فهرست دانشجویان - ردیف کل
-- منبع درس  نظریه زبانها و ماشین ها
+- منبع درس تعامل انسان و کامپیوتر
 - سیلابس درس
 - دروس مشابه
 - دیگر منابع
@@ -34,19 +34,9 @@
     7. [گذراندن دوره HTML از سایت سولولرن](https://mohsengol.github.io/CV/img/portfolio/SoloLearn/cert-1014-20241735.jpg)
     8. [مشارکت در گروهای درسی](#Groups)
     ----------------
-2. **ارائه شفاهی یک فصل از کتاب مرجع اصلی درس**  
-    - شماره ردیف دانشجو به پیمانه 11 
-     ##### **مدت زمان ارائه هر فصل حداقل 45 دقیقه و حداکثر 90 دقیقه**
-    - [**ارائه شفاهی پاور فصل 2 **](https://mohsengoli.wistia.com/projects/q2yvikhby0)
+2. **ارائه شفاهی یک روز از پروژه 10/10**  
+    - [**ارائه شفاهی day1_Timeline **](https://mohsengoli.wistia.com/projects/q2yvikhby0)
    
-3. **ارائه نوشتاری درس از منابع دیگر با لاتک** 
-    - [ارائه نوشتاری با لاتک از صفحه 225 تا صفحه 228 ](https://github.com/MohsenGol/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/Pages%20of%20Book%20by%20Latex%20225-228) - Introduction to Automata Theory, Formal Languages and Computation-Pearson Education India (2016)
-        - **از صفحه :** 225
-        - **تا صفحه :** 228
-     
-4. **ارائه شفاهی دو مساله از منابع دیگر با لاتک** 
-    - [ارائه دو مثال با بیمر](https://github.com/MohsenGol/PNU_3991_AR/tree/main/Theory-of-Languages-and-Machines/Beamer)
-    	
 
 [<kbd>↩</kbd>](#TOC)
 
